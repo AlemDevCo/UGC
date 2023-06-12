@@ -5,14 +5,14 @@ Ever wondered what the process was to uploading a UGC item to Roblox? Well in th
 
 ### **What does it take to be a UGC Creator and how to apply?**
 
-To be a UGC Creator, you need to have some experience in modeling *(why not start now if you didn't already?)* to be able to get accepted by Roblox since it's not available to everyone. As I'm writing this post [applications are open](https://roblox.qualtrics.com/jfe/form/SV_56I0Jyo6Pz3ksUS), if not [this DevForum post](https://devforum.roblox.com/t/updates-and-changes-to-the-ugc-catalog-application/1974990) should announce when they'll be open. 
+To be a UGC Creator, you need to have some experience in modeling *(why not start now if you didn't already?)* to be able to get accepted by Roblox since uploading an item is not available to everyone. As I'm writing this post [applications are open](https://roblox.qualtrics.com/jfe/form/SV_56I0Jyo6Pz3ksUS), if not, [this DevForum post](https://devforum.roblox.com/t/updates-and-changes-to-the-ugc-catalog-application/1974990) should announce when they'll be open. 
 
 ### **UGC Creation process:**
 
 #### **What you'll need**
 - 3D Software ([Blender](https://www.blender.org/) is the most popular)
-- Texturing Software (*This is optional as you can use the tools in Blender but here are some other popular alternatives:* GIMP, 
-- Image Editing Software (
+- Texturing Software (*This is optional as you can use the tools in Blender but here are some other popular alternatives:* Software 1, etc.) 
+- Image Editing Software (Software 1, etc.)
 #### **Getting started**
 Start off by getting a new and original idea. Copying something that has already been made might get you banned. Plus, people like original content.
 
