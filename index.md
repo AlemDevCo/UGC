@@ -1,7 +1,7 @@
 
 ## **Behind The Scenes: UGC Items**
 
-Have you ever been curious about the process of uploading a UGC item to Roblox? In this article, we'll guide you through the journey from developing the initial idea to releasing your very own UGC creations!
+Have you ever been curious about the process of uploading a User-Generated Content item (UGC) to Roblox? In this article, we'll walk you through the step-by-step process, from generating ideas to releasing your own UGC creations!
 
 ### **What does it take to become a UGC Creator and how can you apply?**
 
