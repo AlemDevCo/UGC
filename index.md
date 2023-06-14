@@ -42,7 +42,8 @@ Uploading is the same process as uploading a Plugin to the Toolbox. You right cl
 **Uploading Fee:** 750 Robux
 **Waiting Period:** 1-2 Business days
 
-### **Conclusion
+### **Conclusion**
+Coming soon
 
 ### **Credits**
 Thanks to [Wabbit](https://www.rolimons.com/player/48545285) for most of the information here.
