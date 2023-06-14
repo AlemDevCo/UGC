@@ -37,6 +37,12 @@ Unfortunately I've spoken with a few UGC Creators and they all told me that this
 
 #### **Uploading**
 *Programs used: Roblox Studio*
-Items have a maximum of 4,000 triangles. That's why it's important you don't make it too-high-quality.
 Uploading is the same process as uploading a Plugin to the Toolbox. You right click it and upload it. 
-The waiting process is 1 to 2 business days.
+**Maximum Triangles:** 4,000
+**Uploading Fee:** 750 Robux
+**Waiting Period:** 1-2 Business days
+
+### **Conclusion
+
+### **Credits**
+Thanks to [Wabbit](https://www.rolimons.com/player/48545285) for most of the information here.
