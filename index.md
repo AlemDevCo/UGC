@@ -11,7 +11,7 @@ To be a UGC Creator, you need to have some experience in modeling *(why not star
 
 #### **What you'll need**
 - 3D Software ([Blender](https://www.blender.org/) is the most popular)
-- Texturing Software (*This is optional as you can use the tools in Blender but here's an alternative:* [Adobe Substance Painter](https://www.adobe.com/products/substance3d-painter.html))
+- Texturing Software (<font size=”10”>*This is optional as you can use the tools in Blender but here's an alternative:*</font> [Adobe Substance Painter](https://www.adobe.com/products/substance3d-painter.html))
 - Image Editing Software ([Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Paint.net](https://www.getpaint.net/), [GIMP](https://www.gimp.org/))
 
 #### **Getting started**
