@@ -3,7 +3,7 @@
 
 Ever wondered what the process was to uploading a UGC item to Roblox? Well in this article we'll be showing you from getting the idea to actually releasing your own UGC Creations!
 
-### **What does it take to be a UGC Creator and how to apply?**
+### **What does it take to be a UGC Creator and how do I apply?**
 
 To be a UGC Creator, you need to have some experience in modeling *(why not start now if you didn't already?)* to be able to get accepted by Roblox since uploading an item is not available to everyone. As I'm writing this post [applications are open](https://roblox.qualtrics.com/jfe/form/SV_56I0Jyo6Pz3ksUS), if not, [this DevForum post](https://devforum.roblox.com/t/updates-and-changes-to-the-ugc-catalog-application/1974990) should announce when they'll be open. 
 
