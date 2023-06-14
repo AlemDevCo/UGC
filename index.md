@@ -1,22 +1,22 @@
 
 ## **Behind The Scenes: UGC Items**
 
-Ever wondered what the process was to uploading a UGC item to Roblox? Well in this article we'll be showing you from getting the idea to actually releasing your own UGC Creations!
+Have you ever been curious about the process of uploading a UGC item to Roblox? In this article, we'll guide you through the journey from developing the initial idea to releasing your very own UGC creations!
 
-### **What does it take to be a UGC Creator and how do I apply?**
+### **What does it take to become a UGC Creator and how can you apply?**
 
-To be a UGC Creator, you need to have some experience in modeling *(why not start now if you didn't already?)* to be able to get accepted by Roblox since uploading an item is not available to everyone. As I'm writing this post [applications are open](https://roblox.qualtrics.com/jfe/form/SV_56I0Jyo6Pz3ksUS), if not, [this DevForum post](https://devforum.roblox.com/t/updates-and-changes-to-the-ugc-catalog-application/1974990) should announce when they'll be open. 
+To become a UGC Creator, you need some experience in modeling. If you haven't started yet, why not begin now? This experience is necessary to be accepted by Roblox since not everyone can upload items. As I'm writing this post [applications are open](https://roblox.qualtrics.com/jfe/form/SV_56I0Jyo6Pz3ksUS), if not, [this DevForum post](https://devforum.roblox.com/t/updates-and-changes-to-the-ugc-catalog-application/1974990) should announce when they'll be open. 
 
 ### **UGC Creation process:**
 
 #### **What you'll need**
-- 3D Software ([Blender](https://www.blender.org/) is the most popular)
-- Texturing Software (*This is optional as you can use the tools in Blender but here's an alternative:* [Adobe Substance Painter](https://www.adobe.com/products/substance3d-painter.html))
+- 3D Software ([Blender](https://www.blender.org/) is the most popular choice)
+- Texturing Software (You can use Blender's tools, alternatively you can try [Adobe Substance Painter](https://www.adobe.com/products/substance3d-painter.html))
 - Image Editing Software ([Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Paint.net](https://www.getpaint.net/) or [GIMP](https://www.gimp.org/))
 - [Roblox Studio](https://www.roblox.com/create)
 
 
-#### **NOTICE:** This article is meant for people that have basic understanding in the softwares above and know how to use them fluently.
+#### **NOTE:** This article assumes that you have a basic understanding of the mentioned softwares and can use them proficiently.
 
 #### **Creating the model**
 *Programs used: 3D Software (Blender)*
@@ -33,12 +33,12 @@ To be a UGC Creator, you need to have some experience in modeling *(why not star
 3. If the texture-image is not how you want it to be, use an image editing software to tweak it.
 
 #### **UGC Tweaking**
-Unfortunately I've spoken with a few UGC Creators and they all told me that this part can't be disclosed.
+Unfortunately, after consulting with several UGC Creators, it was determined that this part cannot be disclosed.
 
 #### **Uploading**
 *Programs used: Roblox Studio*
 
-Uploading is the same process as uploading a Plugin to the Toolbox. You right click it and upload it. 
+Uploading your UGC item follows the same process as uploading a Plugin to the Toolbox. 
 - **Maximum Triangles:** 4,000
 - **Uploading Fee:** 750 Robux
 - **Waiting Period:** 1-2 Business days
@@ -47,4 +47,4 @@ Uploading is the same process as uploading a Plugin to the Toolbox. You right cl
 Coming soon
 
 ### **Credits**
-Thanks to [Wabbit](https://www.rolimons.com/player/48545285) for most of the information here.
+Special thanks to [Wabbit](https://www.rolimons.com/player/48545285) for providing most of the information in this article.
