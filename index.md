@@ -37,6 +37,7 @@ Unfortunately I've spoken with a few UGC Creators and they all told me that this
 
 #### **Uploading**
 *Programs used: Roblox Studio*
+
 Uploading is the same process as uploading a Plugin to the Toolbox. You right click it and upload it. 
 - **Maximum Triangles:** 4,000
 - **Uploading Fee:** 750 Robux
